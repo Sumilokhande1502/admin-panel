@@ -1,17 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700");
 @import url("https://fonts.googleapis.com/css?family=Courgette");
-.bg-mattBlackLight {
-  background-color: #303337;
-}
 
-.text-mattBlackLight {
-  color: #303337;
-}
 
 .bg-mattBlackDark, body, .nav-link:hover, .nav-link.active {
   background-color: #212121;
 }
-
 
 .bg-mattGray {
   background-color: #878d8d;
