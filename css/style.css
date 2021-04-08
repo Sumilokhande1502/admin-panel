@@ -91,6 +91,18 @@ body {
   font-size: 0.875rem;
 }
 
+
+
+.addMore{
+  display: flex;
+  justify-content: center;
+
+}
+
+.addMore a{
+  text-decoration: none;
+}
+
 @media (min-width: 992px) {
   .wrapper .sideMenu {
     -webkit-transform: translateX(0);
