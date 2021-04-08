@@ -101,7 +101,28 @@ body {
 
 .addMore a{
   text-decoration: none;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: auto;
+  transition: 0.3s ease-in;
 }
+
+.addMore a:hover{
+  background-color: #212121;
+  border: none;
+  opacity: 0.5
+}
+
+.addMore a i{
+  padding: 20px;
+}
+
+.addMore a i:hover{
+  color: aliceblue;
+}
+
+
 
 @media (min-width: 992px) {
   .wrapper .sideMenu {
